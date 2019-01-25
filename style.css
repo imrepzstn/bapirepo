@@ -56,6 +56,7 @@ h1 {
     left: 15%;
     background: rgba(245, 244, 244, 0.8);
     width: 600px;
+    height: 300px;
     border: none;
     padding: 50px;
     margin: 50px;
@@ -103,5 +104,6 @@ img {
   
     width: 180px;
     height: 250px;
+    padding-right: 25px;
 }
 
