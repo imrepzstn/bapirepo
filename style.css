@@ -111,3 +111,36 @@ img {
     padding-right: 25px;
 }
 
+#footer {
+    width: 100%;
+    background: #000000dc;
+}
+
+#footer li {
+    display: inline-block;
+}
+
+#footer li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    padding: 30px 10px;
+
+}
+
+#title2 {
+    background-color: #00000000;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    border-radius: 8px;
+    position: static;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px;
+    float: left;
+}
