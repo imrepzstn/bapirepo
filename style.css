@@ -96,3 +96,12 @@ h2 {
     padding: 10px;
     color: #292929;
 }
+
+img {
+    float: left;
+    object-fit: cover;
+  
+    width: 180px;
+    height: 250px;
+}
+
