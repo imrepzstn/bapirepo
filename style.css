@@ -1,3 +1,7 @@
+body {
+    background-image: url("images/background.jpg");
+    background-color: #cccccc;
+   }
 nav {
     background: #586063;
     width: 100%;
@@ -21,4 +25,17 @@ nav li a {
 
 h1 {
     position: absolute;
+}
+
+.article {
+    float: none;
+    position: fixed;
+    left: 15%;
+    background: rgba(202, 194, 194, 0.80);
+    width: 900px;
+    height: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+
 }
