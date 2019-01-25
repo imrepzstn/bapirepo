@@ -47,7 +47,7 @@ h1 {
     border: none;
     padding: 15px 32px;
     text-align: center;
-    display: inline-block;
+    display: block;
     font-size: 18px;
     border-radius: 8px;
     position: static;
