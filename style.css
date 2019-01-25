@@ -29,13 +29,13 @@ h1 {
 
 .article {
     float: none;
-    position: fixed;
+    position: static;
     left: 15%;
     background: rgba(202, 194, 194, 0.80);
-    width: 900px;
+    width: 600px;
     height: 300px;
     border: 25px solid green;
-    padding: 25px;
+    padding: 50px;
     margin: 25px;
 
 }
