@@ -71,11 +71,10 @@ h1 {
     position: relative;
     left: 30%;
     background: rgba(245, 244, 244, 0.8);
-    width: 600px;
+    width: 750px;
     height: 150px;
     border: none;
-    padding: 50px;
-    padding-bottom: 60px;
+    padding: 25px;
     margin: 20px;
     box-sizing: border-box;
     border-radius: 20px; 
@@ -89,10 +88,10 @@ h1 {
     position: relative;
     left: 30%;
     background: rgba(245, 244, 244, 0.8);
-    width: 600px;
+    width: 750px;
     height: 300px;
     border: none;
-    padding: 50px;
+    padding: 25px;
     margin: 20px;
     box-sizing: border-box;
     border-radius: 15px;
