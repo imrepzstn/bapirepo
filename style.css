@@ -54,6 +54,20 @@ h1 {
     position: absolute;
 }
 
+#bio {
+    float: none;
+    position: static;
+    left: 15%;
+    background: rgba(245, 244, 244, 0.8);
+    width: 600px;
+    height: 150px;
+    border: none;
+    padding: 50px;
+    margin: 50px;
+    box-sizing: content-box;
+    border-radius: 20px; 
+}
+
 .article {
     float: none;
     position: static;
