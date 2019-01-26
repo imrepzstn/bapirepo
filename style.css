@@ -143,6 +143,8 @@ img {
     height: 250px;
     padding-right: 15px;
     padding-bottom: 10;
+    margin-bottom: 20px;
+    margin-top: 20px;
     filter: grayscale(75%);
 }
 
