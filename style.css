@@ -54,6 +54,11 @@ nav li a {
 
 }
 
+a:hover {
+    background-color: rgb(86, 93, 126);
+    transition: background-color .4s
+  }
+
 h1 {
     position: absolute;
 }
@@ -123,10 +128,18 @@ h2 {
 img {
     float: left;
     object-fit: cover;
-  
+    transition: all 0.3s ease-in-out;
     width: 180px;
     height: 250px;
-    padding-right: 25px;
+    padding-right: 15px;
+    padding-bottom: 10;
+    filter: grayscale(75%);
+}
+
+img:hover {
+  transform: scale(1.05);
+  filter: grayscale(0%);
+  border-radius: 10px;
 }
 
 #footer {
