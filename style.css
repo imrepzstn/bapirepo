@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+  }
 .background-image {
     position: fixed;
     left: 0;
@@ -72,9 +75,13 @@ h1 {
     height: 150px;
     border: none;
     padding: 50px;
+    padding-bottom: 60px;
     margin: 20px;
-    box-sizing: content-box;
+    box-sizing: border-box;
     border-radius: 20px; 
+    content: "";
+    clear: both;
+    display: table;
 }
 
 .article {
@@ -87,10 +94,14 @@ h1 {
     border: none;
     padding: 50px;
     margin: 20px;
-    box-sizing: content-box;
+    box-sizing: border-box;
     border-radius: 15px;
+    content: "";
+    clear: both;
+    display: table;
 
 }
+
 
 #title {
     background-color: #cacacad3;
